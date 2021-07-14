@@ -29,7 +29,7 @@ var app = http.createServer(function(request,response){
         <li>삭제하고자 하는 상품을 선택 후&nbsp; [삭제]버튼을 통해 삭제합니다.</li>
         </ul>
         <p data-ke-size="size14"><b><span style="color: #000000;">*기존상품을 삭제하지 않아도 재등록이 가능하지만 관리가 안될 수 있으므로 삭제를 권장드립니다.</span></b></p>
-        <p>[##_Image|kage@bvvO5Q/btq894zgQAQ/JZ9SS5nhn6QiIFwPBRknq0/img.png|alignCenter|data-origin-width="1463" data-origin-height="914" data-ke-mobilestyle="widthOrigin"|||_##]</p>
+        <p><img src="https://blog.kakaocdn.net/dn/bvvO5Q/btq894zgQAQ/JZ9SS5nhn6QiIFwPBRknq0/img.png" data-origin-width="1463" data-origin-height="914" data-ke-mobilestyle="widthOrigin" data-mce-src="https://blog.kakaocdn.net/dn/bvvO5Q/btq894zgQAQ/JZ9SS5nhn6QiIFwPBRknq0/img.png" data-image-src="https://blog.kakaocdn.net/dn/bvvO5Q/btq894zgQAQ/JZ9SS5nhn6QiIFwPBRknq0/img.png"></p>
         <p data-ke-size="size16">&nbsp;</p>
         <ul style="list-style-type: disc;" data-ke-list-type="disc">
         <li>대량으로 상품을 삭제해야하는 경우 엑셀로 업로드하여 삭제할 수 있습니다(최대 5000개)</li>
